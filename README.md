@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <!--
 **Mannxxx/Mannxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
