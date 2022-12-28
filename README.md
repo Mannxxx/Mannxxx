@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@mannxxx's Holopin board](https://holopin.me/mannxxx)](https://www.holopin.io/userbadge/clanbh0q8687508ie5oj1z8zk)
-
+[![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannxxx)](https://holopin.io/@mannxxx)
