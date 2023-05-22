@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannxxx)](https://holopin.io/@mannxxx)
-https://media.licdn.com/dms/image/C4D22AQEuq3GDWDdRcQ/feedshare-shrink_800/0/1665757854013?e=1687392000&v=beta&t=68RVvh3E5YrcA4X7ReZO3O0RoY1vl-FTK4WLYYJTd5E
+![alt text] (https://media.licdn.com/dms/image/C4D22AQEuq3GDWDdRcQ/feedshare-shrink_800/0/1665757854013?e=1687392000&v=beta&t=68RVvh3E5YrcA4X7ReZO3O0RoY1vl-FTK4WLYYJTd5E)
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
