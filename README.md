@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)        
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
-![Weather](https://img.shields.io/badge/Weather-New DelhiDelhi-blue?style=flat&logo=appveyor)
+![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
+
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
 
