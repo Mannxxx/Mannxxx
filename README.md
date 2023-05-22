@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Quote](https://zenquotes.io/api/random)
+![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
+
 
