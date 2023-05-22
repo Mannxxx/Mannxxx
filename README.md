@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannxxx)](https://holopin.io/@mannxxx)
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-https://api.quotable.io
+![Quote Card](https://api.quotable.io)
