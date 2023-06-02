@@ -1,5 +1,5 @@
 ### Hi there 👋
-![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)  ![graphical user interface, application](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)   ![graphical user interface, application](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 <!--
 **Mannxxx/Mannxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
