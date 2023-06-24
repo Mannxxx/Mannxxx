@@ -23,15 +23,12 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)        
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
-\\
+
+
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
 
-
-## Listening on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&redirect=true)
 
 <div align="center">
 
