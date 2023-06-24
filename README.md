@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+&nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
+&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
+&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
+&nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
+
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)
@@ -17,10 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
-&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
-&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
-&nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
+
 
 
 
@@ -47,5 +50,11 @@ Here are some ideas to get you started:
 
 ![Quickdraw Badge](https://img.shields.io/badge/Quickdraw-Contributor-orange?logo=google&logoColor=white)
 
-
+<div align='center'>
+	<div style="display: flex;">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mannxxx&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannxxx&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=6" />
+		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mannxxx&theme=cobalt&hide_border=true" />
+	</div>
+</div>
 
