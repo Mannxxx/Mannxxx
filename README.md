@@ -7,6 +7,15 @@
 
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
+<div align="center">
+
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
+
 ![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)
 
 <!--
@@ -51,15 +60,6 @@ Here are some ideas to get you started:
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
 </div>
 
-
-<div align="center">
-
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
 
 ![Quickdraw Badge](https://img.shields.io/badge/Quickdraw-Contributor-orange?logo=google&logoColor=white)
 
