@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)        
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
+\\
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
