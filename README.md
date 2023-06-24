@@ -38,6 +38,16 @@ Here are some ideas to get you started:
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
 
+<details>
+	<summary><b>PC Specs</b></summary>
+	<br/>
+	<ul>
+		<li><b>PC: </b>Laptop</li>
+		<li><b>OS: </b>Windows 11, version 22H2</li>
+		<li><b>Processor: </b>AMD Ryzen 5 5600H with Radeon Graphics 3.30 GHz</li>
+		<li><b>RAM: </b>8.00 GB</li>
+	</ul>
+</details>
 
 <div align="center">
 
