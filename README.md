@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://Mannxxx.dev)
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
@@ -33,6 +32,21 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="500" alt="Mannxxx's Dev Card"/></a>
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> Bears, Beets, Battlestar Galactica.
+>
+> <p>- Jim Halpert</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
+
+<br>
+
+
 ## Here is a random quote for you!
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
