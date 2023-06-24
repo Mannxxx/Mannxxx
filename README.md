@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="500" alt="Mannxxx's Dev Card"/></a>
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-## 📣 How about an Office quote before you go?
-![The Office API](https://www.officeapi.dev/)
-<br>
 ## Here is a random quote for you!
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
