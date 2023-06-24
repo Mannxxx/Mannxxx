@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannxxx)](https://holopin.io/@mannxxx)
+[![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)        
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
