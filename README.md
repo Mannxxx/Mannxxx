@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://Mannxxx.dev)
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
