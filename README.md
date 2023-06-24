@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="75" width="75" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
 <img height="75" width="75" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
 <img height="75" width="75" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
 <img height="75" width="75" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
