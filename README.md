@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
 </div>
 
-<a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg" width="230" alt="Mannxxx's Dev Card"/></a>
+<a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="230" alt="Mannxxx's Dev Card"/></a>
 <details>
 	<summary><b>PC Specs</b></summary>
 	<br/>
