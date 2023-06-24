@@ -28,12 +28,14 @@ Here are some ideas to get you started:
 
 
 [![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
+
+<a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="230" alt="Mannxxx's Dev Card"/></a>
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)        
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
 
-<a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="230" alt="Mannxxx's Dev Card"/></a>
+
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
