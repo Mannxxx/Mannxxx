@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+&nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
+&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
+&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
+&nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
+
+
 
 [![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
 ## Here is a random joke that'll make you laugh!
