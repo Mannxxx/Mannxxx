@@ -1,7 +1,8 @@
 ### Hi there 👋
-Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
-![Mannxxxx's GitHub Banner](MannxxxxPresentation 4.png)
+![image-20230628224809750](C:\Users\Mansi\AppData\Roaming\Typora\typora-user-images\image-20230628224809750.png)
+
+Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
@@ -16,6 +17,7 @@ Passionate undergrad exploring the realms of software and embracing cool tech. C
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <div align="center">
+
 
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 
 
@@ -48,11 +50,16 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="300" alt="Mannxxx's Dev Card"/></a> 
 <!-- <a href="https://app.daily.dev/Mannxxx"><img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=63n" width="200" alt="Mansi Sharma's Dev Card"/></a> -->
+
 ## Here is a random joke that'll make you laugh!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
+
 ## Here is a random quote for you!
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
 ![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
+
 <details>
 	<summary><b>PC Specs</b></summary>
 	<br/>
@@ -63,6 +70,7 @@ Here are some ideas to get you started:
 		<li><b>RAM: </b>8.00 GB</li>
 	</ul>
 </details>
+
 
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
@@ -79,4 +87,3 @@ Here are some ideas to get you started:
 		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mannxxx&theme=cobalt&hide_border=true" />
 	</div>
 </div>
-
