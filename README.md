@@ -6,6 +6,11 @@ Passionate undergrad exploring the realms of software and embracing cool tech. C
 &nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
 &nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <div align="center">
