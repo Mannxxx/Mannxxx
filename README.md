@@ -6,15 +6,17 @@
 ### Hi there 👋
 I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. 
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@MansiSh04166978)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mansi-sharma)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/MANXXx/pen/wvyoPGL?editors=1111)
+[![CodePen Badge](https://img.shields.io/badge/app.daily.dev-Profile-informational?style=flat&logo=app.daily.dev&logoColor=white&color=black)](https://app.daily.dev/Mannxxx)
+
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
 &nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
 &nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
