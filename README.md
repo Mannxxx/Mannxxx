@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![background_logo (1)](C:\Users\Mansi\Downloads\background_logo (1).png)
-
+<!--[![background_logo (1)](./assets/background_logo (1).png)]-->
+<img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
 Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
