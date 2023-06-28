@@ -1,4 +1,4 @@
-**Developer tools are my playground, and innovation is my fuel.**
+**"Developer tools are my playground, and innovation is my fuel."**
 
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
@@ -12,26 +12,17 @@ I'm Mansi, a passionate undergrad exploring the realms of software and embracing
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/MANXXx/pen/wvyoPGL?editors=1111)
 [![CodePen Badge](https://img.shields.io/badge/app.daily.dev-Profile-informational?style=flat&logo=app.daily.dev&logoColor=white&color=black)](https://app.daily.dev/Mannxxx)
 
-&nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
-&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
-&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
-&nbsp; ![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
+![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
+![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
+![Twitch Status](https://img.shields.io/twitch/status/Mannxxx?style=for-the-badge&logo=Twitch)
 
 
-![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+<!-- ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-<div align="center">
-
-
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
-<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
-
-![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250"/> <img src="https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0" width="400"/> <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="300" alt="Mannxxx's Dev Card"/></a> 
+<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)-->
 
 <!--
 **Mannxxx/Mannxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,20 +44,82 @@ Here are some ideas to get you started:
 
 [![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
 
-<a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="300" alt="Mannxxx's Dev Card"/></a> 
 <!-- <a href="https://app.daily.dev/Mannxxx"><img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=63n" width="200" alt="Mansi Sharma's Dev Card"/></a> -->
 
-## Here is a random joke that'll make you laugh!
+</div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api) 
+<div align="center"> 
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
+<img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
+<br>
+<br>
 
-## Here is a random quote for you!
+## &#x1f4c8; GitHub Stats
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
-![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor)
+<br>
+<div align='center'>
+	<div style="display: flex;">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mannxxx&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannxxx&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=6" />
+		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mannxxx&theme=cobalt&hide_border=true" />
+	</div>
+</div>
 
-<details>
-	<summary><b>PC Specs</b></summary>
+
+<br>
+
+# 💼 Skills
+
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197) 
+<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> Bears, Beets, Battlestar Galactica.
+>
+> <p>- Jim Halpert</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
+
+<br>
+<!-- ## Here is a random joke that'll make you laugh!           ## Here is a random quote for you!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)        ![Quote](https://quotes-github-readme.vercel.app/api?type=quote)
+![Weather](https://img.shields.io/badge/Weather-Delhi-blue?style=flat&logo=appveyor) --
+
+> ### Want to know how I made this README?
+>
+> Check out the [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+>
+<detailssummary><b>PC Specs</b></summary>
 	<br/>
 	<ul>
 		<li><b>PC: </b>Laptop</li>
@@ -80,15 +133,3 @@ Here are some ideas to get you started:
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
-</div>
-
-
-![Quickdraw Badge](https://img.shields.io/badge/Quickdraw-Contributor-orange?logo=google&logoColor=white)
-
-<div align='center'>
-	<div style="display: flex;">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mannxxx&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannxxx&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=6" />
-		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mannxxx&theme=cobalt&hide_border=true" />
-	</div>
-</div>
