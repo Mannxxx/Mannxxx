@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![background_logo](/background_logo.png) <img src="url" width="100%" height="50%">
+[![Mannxxx's GitHub Banner](./background_logo)] <img src="url" width="100%" height="50%">
 
 Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
