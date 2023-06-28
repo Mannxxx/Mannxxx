@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mannxxx's GitHub Banner](assets/background_logo (1).png] 
+[![Mannxxx's GitHub Banner](./assets/background_logo (1).png)] (https://app.daily.dev/Mannxxx)
 
 Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
