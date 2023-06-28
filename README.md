@@ -1,8 +1,10 @@
-### Hi there 👋
+**Developer tools are my playground, and innovation is my fuel.**
 
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
-Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
+
+### Hi there 👋
+I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. 
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
@@ -16,6 +18,7 @@ Passionate undergrad exploring the realms of software and embracing cool tech. C
 
 ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 <div align="center">
 
 
