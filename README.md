@@ -20,7 +20,7 @@ I'm Mansi, a passionate undergrad exploring the realms of software and embracing
 
 <!-- ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250"/> <img src="https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0" width="400"/> <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="300" alt="Mannxxx's Dev Card"/></a> 
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200"/> <img src="https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0" width="400"/> <a href="https://app.daily.dev/Mannxxx"><img align='right' src="https://github.com/Mannxxx/Mannxxx/blob/main/devcard.svg.png" width="300" alt="Mannxxx's Dev Card"/></a> 
 <!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 ![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)-->
 
