@@ -1,7 +1,7 @@
 ### Hi there 👋
 Passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. Developer tools are my playground, and innovation is my fuel.
 
-![Braydon's GitHub Banner](Presentation 4.png)
+![Mannxxxx's GitHub Banner](MannxxxxPresentation 4.png)
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Mannxxx?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Mannxxx?style=for-the-badge&logo=Github)
