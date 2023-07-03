@@ -99,15 +99,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 <br>
 
-## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
->
-> <p>- Jim Halpert</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
