@@ -109,6 +109,10 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 <br>
 <!-- ## Here is a random joke that'll make you laugh!           ## Here is a random quote for you!
 
@@ -129,10 +133,7 @@ Check back at the top of the hour for a new quote!
 	</ul>
 </details>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+
 
 <!-- ![Chuck Norris Joke](https://api.chucknorris.io/jokes/random) -->
 <!-- ![Trivia](https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple) -->
