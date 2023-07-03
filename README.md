@@ -3,7 +3,7 @@
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
 
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. 
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
@@ -20,7 +20,7 @@ I'm Mansi, a passionate undergrad exploring the realms of software and embracing
 
 <!-- ![graphical user interface, application](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200"/> <img src="https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0" height="300" width="300"/> <a href="https://app.daily.dev/Mannxxx"><a href="https://app.daily.dev/Mannxxx"><img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=6yv" width="400" alt="Mansi Sharma's Dev Card"/></a>
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200"/> <img src="https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0" height="300" width="300"/> <a href="https://app.daily.dev/Mannxxx"><a href="https://app.daily.dev/Mannxxx"><img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=6yv" width="250" alt="Mansi Sharma's Dev Card"/></a>
 <!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 ![hackoberfest1](https://github.com/Mannxxx/Mannxxx/assets/107349957/f0d55f29-4801-4c3b-b7c3-cf29409280c0)-->
 
