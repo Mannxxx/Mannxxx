@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://app.daily.dev/Mannxxx"><img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=63n" width="200" alt="Mansi Sharma's Dev Card"/></a> -->
 
 </div>
-
+<!--
 <div align="center"> 
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
 <img height="100" width="100" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
 <br>
-<br>
+<br> -->
 
 ## &#x1f4c8; GitHub Stats
 <div align="center" >
