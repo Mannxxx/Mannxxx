@@ -3,7 +3,8 @@
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
 
-### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
+### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> -->
 I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time. 
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
