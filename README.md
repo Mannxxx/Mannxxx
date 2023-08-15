@@ -2,7 +2,7 @@
 
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
-![Alt Text](http://10.184.29.81:8080/ezgif.com-video-to-gif.gif)
+![Alt Text](https://github.com/Mannxxx/Mannxxx/blob/main/ezgif.com-video-to-gif.gif)
 
 ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> -->
