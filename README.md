@@ -1,5 +1,6 @@
 <!-- **"Developer tools are my playground, and innovation is my fuel."** <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50"/> -->
 **"When you study one neuron, it's Neuroscience. When you study two neurons, it's Psychology."** <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50"/> 
+
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
 <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" /> 
 <!-- <img src="https://github.com/Mannxxx/Mannxxx/blob/main/ezgif.com-crop.gif" alt="GitHub Logo" height="300" width="1000"/> -->
