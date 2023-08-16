@@ -11,7 +11,7 @@
 <!-- I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time.  -->
 <div style="background-image: url('https://github.com/Mannxxx/Mannxxx/blob/main/cb1b82e.png'); background-size: cover; padding: 150px 0;">
     <h1>Hello, I'm Mansi!</h1>
-    <p>Welcome to my GitHub profile. I'm passionate about coding, learning, and building innovative solutions.</p>
+    <p>Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</p>
 </div>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
