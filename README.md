@@ -2,7 +2,17 @@
 **"When you study one neuron, it's Neuroscience. When you study two neurons, it's Psychology."** <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50"/> 
 
 <!--[![background_logo (1)](./assets/background_logo (1).png)]-->
-<img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" /> 
+<!-- <img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" /> -->
+
+
+
+<div align="center">
+<img width="100%" height = "250px" src="http://127.0.0.1:8080/nature-3082832_1280.jpg" alt="cover" />
+</div>
+
+
+
+
 <!-- <img src="https://github.com/Mannxxx/Mannxxx/blob/main/ezgif.com-crop.gif" alt="GitHub Logo" height="300" width="1000"/> -->
 
 
