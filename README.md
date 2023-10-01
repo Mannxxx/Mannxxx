@@ -15,14 +15,14 @@
 
 <!-- <img src="https://github.com/Mannxxx/Mannxxx/blob/main/ezgif.com-crop.gif" alt="GitHub Logo" height="300" width="1000"/> -->
 
-
-### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+<!-- ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> -->
 
 <!-- I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time.  -->
 <div style="background-image: url('https://github.com/Mannxxx/Mannxxx/blob/main/cb1b82e.png'); background-size: cover; padding: 150px 0;">
-    <h1>Hello, I'm Mansi!</h1>
-    <p>Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</p>
+	<hr>
+    <h1 align="center">Hello 👋, I'm Mansi!😎</h1>
+    <h2 align="center">Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</h2>
 </div>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
