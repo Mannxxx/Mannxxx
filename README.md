@@ -1,29 +1,8 @@
-<!-- **"Developer tools are my playground, and innovation is my fuel."** <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50"/> -->
-**"When you study one neuron, it's Neuroscience. When you study two neurons, it's Psychology."** <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50"/> 
-
-<!--[![background_logo (1)](./assets/background_logo (1).png)]-->
-<img  src="https://github.com/Mannxxx/Mannxxx/blob/main/assets/background_logo%20(1).png?raw=true" alt="laptop" />
-
-
-
-<!-- <div align="center">
-<img width="100%" height = "250px" src="http://127.0.0.1:8080/nature-3082832_1280.jpg" alt="cover" />
-</div> -->
-
-
-
-
-<!-- <img src="https://github.com/Mannxxx/Mannxxx/blob/main/ezgif.com-crop.gif" alt="GitHub Logo" height="300" width="1000"/> -->
-
-<!-- ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
-<!-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> -->
-
-<!-- I'm Mansi, a passionate undergrad exploring the realms of software and embracing cool tech. Constantly coding, learning, and building the future one line at a time.  -->
-<div style="background-image: url('https://github.com/Mannxxx/Mannxxx/blob/main/cb1b82e.png'); background-size: cover; padding: 150px 0;">
-	<hr>
-    <h1 align="center">Hello 👋, I'm Mansi!😎</h1>
-    <h2 align="center">Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</h2>
-</div>
+<h1 align="center";style="font-size:10px;"> "When you study one neuron, it's Neuroscience. When you study two neurons, it's Psychology." </h1>
+<img alt="Thanks for visiting my profile" width="100%" src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" />
+<hr>
+<h1 align="center">Hi 👋, I'm Mansi 😎</h1>
+<h2 align="center">Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@MansiSh04166978)
