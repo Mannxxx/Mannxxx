@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-[![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@mannxxx#)](https://www.holopin.io/@mannxxx#)
+[![An image of @mannxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannxxx)](https://holopin.io/@mannxxx)
 
 <!-- <a href="https://app.daily.dev/Mannxxx" class="center">    <img src="https://api.daily.dev/devcards/a7c3642e9c4740d4a8b7b7c9213b4cfb.png?r=63n" class="center" width="200" alt="Mansi Sharma's Dev Card"/></a> -->
 
