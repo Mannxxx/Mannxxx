@@ -2,7 +2,7 @@
 <img alt="Thanks for visiting my profile" width="100%" src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" />
 <hr>
 <h1 align="center">Hi 👋, I'm Mansi 😎</h1>
-<h2 align="center">Welcome to my GitHub profile. I am an early adult homo-sapiens drinking too much coffee.</h2>
+<h2 align="center">Welcome to my GitHub profile.</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@MansiSh04166978)
