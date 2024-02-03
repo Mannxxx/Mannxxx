@@ -1,7 +1,8 @@
-<h1 align="center";style="font-size:10px;"> "Google's First Tweet was in binary." </h1>
+<h1 align="center";style="font-size:10px;"> "A woman once accidentally cut off two countries from the internet." </h1>
+<p align="center">In 2011, a 75-year old woman in Georgia was scavenging for copper when she accidentally sliced a cable running to Armenia. Georgia and Armenia saw large portions of outages.</p>
 <hr>
-<h1 align="center">Hi 👋, I'm Mansi 😎</h1>
-<h2 align="center">Welcome to my GitHub profile.</h2>
+<h1>Hi, I'm Mansi 😎</h1>
+<!-- <h2 align="center">Welcome to my GitHub profile.</h2> -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@MansiSh04166978)
