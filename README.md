@@ -1,5 +1,5 @@
 <h1 align="center";style="font-size:10px;"> "Google's First Tweet was in binary." </h1>
-<img alt="Thanks for visiting my profile" width="100%" src="dwfowjoejovqmqevq" />
+<img alt="Thanks for visiting my profile" width="100%" src="https://github.com/Mannxxx/Mannxxx/blob/main/google.png" />
 <hr>
 <h1 align="center">Hi 👋, I'm Mansi 😎</h1>
 <h2 align="center">Welcome to my GitHub profile.</h2>
