@@ -1,7 +1,7 @@
-<h2 align="center";style="font-size:10px;"> "A woman once accidentally cut off two countries from the internet." </h2>
+<h2 align="center";style="font-size:15px;"> "A woman once accidentally cut off two countries from the internet." </h2>
 <p align="center">In 2011, a 75-year old woman in Georgia was scavenging for copper when she accidentally sliced a cable running to Armenia. Georgia and Armenia saw large portions of outages.</p>
 <hr>
-<h1 align="centre">Hola, I't's Mansi 🐸</h1>
+<h1 align="center">Hola, I't's Mansi 🐸</h1>
 <!-- <h2 align="center">Welcome to my GitHub profile.</h2> -->
 
 <!--  [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
